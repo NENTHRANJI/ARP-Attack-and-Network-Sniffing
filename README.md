@@ -45,12 +45,12 @@ In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
 <img width="1570" height="320" alt="image" src="https://github.com/user-attachments/assets/6c9122b2-c421-4581-b929-cf962db26e51" />
+Invoke the wireshark and examine the various menus  and controls of the tool:
+<img width="1834" height="385" alt="image" src="https://github.com/user-attachments/assets/a96c9514-c555-456c-9086-c66b242bd735" />
 
 <img width="1883" height="387" alt="image" src="https://github.com/user-attachments/assets/b202db2e-1f24-4180-abbf-920fb33d8bd2" />
 
 
-
-Invoke the wireshark and examine the various menus  and controls of the tool:
 
 
 ## RESULT:
