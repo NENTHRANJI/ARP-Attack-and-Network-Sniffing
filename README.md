@@ -30,6 +30,7 @@ In windows 7 give the command arp -a
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+
 <img width="839" height="570" alt="image" src="https://github.com/user-attachments/assets/1d0c9b79-f3c9-44bf-89a0-7c6d3d5c4677" />
 
 
@@ -43,7 +44,8 @@ sudo arpspoof -i eth0 -t <target system> <gateway>
 In Kali issue the following commands:
 sudo dsnifff
 ## OUTPUT:
-<img width="1834" height="385" alt="image" src="https://github.com/user-attachments/assets/8631b7ab-70c6-479e-92c8-91f540c72b49" />
+<img width="1570" height="320" alt="image" src="https://github.com/user-attachments/assets/6c9122b2-c421-4581-b929-cf962db26e51" />
+
 <img width="1883" height="387" alt="image" src="https://github.com/user-attachments/assets/b202db2e-1f24-4180-abbf-920fb33d8bd2" />
 
 
